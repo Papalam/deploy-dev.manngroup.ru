@@ -1,0 +1,1 @@
+srv-docker-01   ansible_host=srv-docker-01  ansible_user=root
